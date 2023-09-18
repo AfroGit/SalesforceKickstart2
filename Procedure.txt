@@ -1,0 +1,7 @@
+# First create Codespace.
+
+# Configure SFDX here.
+npm install sfdx-cli --global
+salesforce extension pack
+
+
